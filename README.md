@@ -11,7 +11,7 @@ I'm passionate about solving tech problems, supporting users, and building a str
 
 ## 🧑‍💻 Projects & Labs
  
--	**🔹 Azure Compute & Networking**
+- **🔹 Azure Compute & Networking**
   - Deployed virtual machines, explored cloud infrastructure, and configured basic network components using Microsoft Azure.
 	
 - **🔹 IT Ticketing System (osTicket)**
