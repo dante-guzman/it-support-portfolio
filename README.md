@@ -10,18 +10,24 @@ I'm passionate about solving tech problems, supporting users, and building a str
 ---
 
 ## 🧑‍💻 Projects & Labs
+ 
+-	**🔹 Azure Compute & Networking**
+  - Deployed virtual machines, explored cloud infrastructure, and configured basic network components using Microsoft Azure.
+	
+- **🔹 IT Ticketing System (osTicket)**
+  - Simulated real-world help desk workflows including ticket creation, categorization, and resolution using osTicket.
 
-- **🔹 Help Desk Ticketing Simulation**
-  - Sample user issue logs and professional resolutions using realistic support scenarios.
-  
-- **🔹 Network Troubleshooting Lab**
-  - Diagnosing IP conflicts, DNS failures, and DHCP issues on Windows and Linux.
+- **🔹 Virtual Private Networks (VPNs)**
+  - Configured and tested VPN connections to ensure secure remote access for end-users.
 
-- **🔹 Active Directory Practice**
-  - User/group creation, password resets, permission control, and OU management.
+- **🔹 Active Directory Administration**
+  -	Hands-on with user/group creation, password policies, organizational units, and permission structures in a Windows domain environment.
 
-- **🔹 System Imaging**
-  - Steps to create and deploy OS images using Clonezilla and Windows Deployment Tools.
+- **🔹 DNS Configuration & Troubleshooting**
+  -	Explored DNS record types, name resolution issues, and practical DNS troubleshooting techniques.
+
+- **🔹 File Shares & Permissions**
+  -	Created network shares, applied NTFS permissions, and managed access control for users and groups.
 
 ---
 
